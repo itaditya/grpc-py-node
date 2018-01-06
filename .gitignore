@@ -1,0 +1,8 @@
+# Node
+node_modules/
+*.log
+*.DS_Store
+
+# Python
+*.pyc
+__pycache__
