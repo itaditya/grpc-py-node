@@ -1,4 +1,4 @@
-## GRPC with Node and Python
+## gRPC with Node and Python
 
 > A minimal polyglot app which uses gRPC for data communication between Node.js and Python
 
